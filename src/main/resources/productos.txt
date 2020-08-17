@@ -1,0 +1,6 @@
+Producto A,12,3.7
+Producto B,17
+Producto C,14,1.9
+Producto D,23,2.7
+Producto E
+Producto F,18,3.4
